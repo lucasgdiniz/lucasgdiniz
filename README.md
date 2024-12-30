@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasgdiniz
-- 👀 I’m interested in games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on games
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Games
 - ⚡ Fun fact: ...
 
 <!---
